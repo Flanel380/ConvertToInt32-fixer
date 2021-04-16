@@ -24,8 +24,8 @@ namespace ConvertFixer
                 return;
             }
             int ConvertFixed = 0;
-            Console.Title = "Convert.ToInt32 fixer by NCP";
-            Console.WriteLine("Convert.ToInt32 fixer by NCP");
+            Console.Title = "Convert.ToInt32 fixer by ННчик";
+            Console.WriteLine("Convert.ToInt32 fixer by ННчик");
             foreach (var type in module.Types)
             {
                 foreach (var method in type.Methods)
